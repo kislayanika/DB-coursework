@@ -1,8 +1,3 @@
-/*==============================================================*/
-/* DBMS name:      ORACLE Version 11g                           */
-/* Created on:     23.12.2018 15:05:10                          */
-/*==============================================================*/
-
 
 alter table Information
    drop constraint FK_INFORMAT_USER_GET__USER;
